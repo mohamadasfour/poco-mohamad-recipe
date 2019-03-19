@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+    @import url('https://fonts.googleapis.com/css?family=Roboto');
+    @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+    @import url('https://fonts.googleapis.com/css?family=Margarine');
+h1 {
+    font-family: 'Margarine', cursive;
+    color:red;
+    background-color: lightgrey;
+    margin-left: 1em;
+
+}
+#desc{
+    margin-left: 50px;
+}
+#first, #desc{
+    display: inline-block;
+    width: 40%;
+
+}
+
+/* this is a font serif */
+
+body {
+    font-family: 'Margarine', cursive;
+    font-size: 2em;
+    font-style:bold;
+
+}
+
+/* this is for ul */
+
+ul {
+    font-family: 'Margarine', cursive;
+    color: aqua;
+    
+}
+
+p {
+    color: red;
+    background-color: lightgrey;
+    margin-left: 1em;
+    margin-right: 1em;
+    text-decoration: underline;
+    font-family: 'Margarine', cursive;
+    text-decoration-color: rgb(138, 83, 11);
+  }
+  h3 {
+      color: blue;
+      margin-left: 0.5em;
+      margin-right: 0.5em;
+      font-style:bold;
+  }
+  ol {
+      color: chartreuse;
+      background-color: blue;
+      font-family: 'Margarine', cursive;
+  }
